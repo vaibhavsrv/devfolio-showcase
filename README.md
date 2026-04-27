@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+"WELCOME TO DEVFOLIO"
 
 TODO: Document your project here
 update 2026-03-22
